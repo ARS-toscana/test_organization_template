@@ -47,3 +47,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# First email html file (not useful)
+p_PI/first_email.html
