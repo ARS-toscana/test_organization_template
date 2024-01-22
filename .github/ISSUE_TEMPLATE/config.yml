@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Issue with Level check 1
+    url:  https://github.com/UMC-Utrecht-RWE/ConcePTION-INSIGHT-Level1/issues/new/choose
+    about: Please open issues relating to level check 1 in UMC-Utrecht-RWE/ConcePTION-INSIGHT-Level1.
