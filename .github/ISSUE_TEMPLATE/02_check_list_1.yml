@@ -1,0 +1,59 @@
+# Created using application available at https://issue-forms-creator.netlify.app
+
+name: 'Check list 1'
+description: Review of script output to be uploaded to DRE
+title: 'Check list #1 [name of the DAP/organization]'
+body:
+  - type: markdown
+    attributes:
+      value: >-
+        Please consider this checklist as a minimum set of items that you must
+        at least consider for the review of the script output to be uploaded to
+        DRE.  
+
+
+        The PI/Co-PI certify that all script outputs to be uploaded to DRE, as
+        specified in the script documentation, are compliant with the
+        SAP/Protocol of the study. 
+
+
+        By filling in this form the [name of the DAP/organization]
+        representative [full name of the DAP representative] declares that: 
+
+
+        1) all script outputs to be uploaded to DRE, as specified in the script
+        documentation can be shared and uploaded to DRE in accordance with
+        relevant local regulations; 
+
+
+        2) the local results from [name of the relevant datasource] were
+        carefully reviewed according to the items of the following check-list: 
+  - type: checkboxes
+    id: check_list_1
+    attributes:
+      label: Checklist
+      options:
+        - label: 'Presence of all expected tables and figures '
+          required: true
+        - label: >-
+            Number of subjects included in the study overall and exposure group
+            (attrition) 
+          required: true
+        - label: Age and sex, and calendar year distribution
+          required: true
+        - label: Expected follow-up if available
+          required: true
+        - label: >-
+            If there are variables the have 0 counts or not available that
+            should be available in data source
+          required: true
+        - label: Expected missing values
+          required: true
+        - label: Number and provenance of events if appropriate
+          required: true
+        - label: >-
+            Distribution of covariates of the study population are in line with
+            prior knowledge generated in the same database
+          required: true
+        - label: other
+          required: false
