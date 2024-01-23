@@ -2,7 +2,7 @@ Dear DAP representatives and DAP programmers,
 
 This email is to inform you that the script [or a branch of] for the study XX has been released. 
 
-You can find the script at this link XX.
+You can find the script at this [link](https://github.com/ARS-toscana/test_organization_template/issues/new/choose).
 
 You are asked to: 
 
