@@ -57,3 +57,6 @@ body:
           required: true
         - label: other
           required: false
+  - type: textarea
+    attributes:
+      label: 'If you checked anything else, please specify it here:'

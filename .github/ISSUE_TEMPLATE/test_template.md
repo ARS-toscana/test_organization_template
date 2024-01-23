@@ -35,3 +35,5 @@ relevant local regulations;
 	- [ ] Distribution of covariates of the study population are in line with
        prior knowledge generated in the same database
 	- [ ] other
+	
+If you checked anything else, please specify it here:
